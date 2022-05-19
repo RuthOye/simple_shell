@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * **Ruth Oye** **||** [Github](https://github.com/Oludammydy) **|** [Twitter](https://twitter.com/Dharmires) **|** [email](oludammydy@gmail.com)  
-* **Similoluwa** **||** [Github](https://github.com/) **|** [Twitter](https://twitter.com/) **|** [email](@gmail.com)
+* **Simisola Keye** **||** [Github](https://github.com/simikeye) **|** [email](simikeye@gmail.com)
 
 ## Acknowledgements :pray:
 
