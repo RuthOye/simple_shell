@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* **Oluwadamilola Olaniyi** **||** [Github](https://github.com/Oludammydy) **|** [Twitter](https://twitter.com/Dharmires) **|** [email](oludammydy@gmail.com)  
-* **Oluchi Okeke** **||** [Github](https://github.com/) **|** [Twitter](https://twitter.com/) **|** [email](@gmail.com)
+* **Ruth Oye** **||** [Github](https://github.com/Oludammydy) **|** [Twitter](https://twitter.com/Dharmires) **|** [email](oludammydy@gmail.com)  
+* **Similoluwa** **||** [Github](https://github.com/) **|** [Twitter](https://twitter.com/) **|** [email](@gmail.com)
 
 ## Acknowledgements :pray:
 
